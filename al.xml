@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="HTMLFiles/pmathml.xsl"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN"
+        "HTMLFiles/xhtml-math11-f.dtd">
+
+<!-- Created with the Wolfram Language : www.wolfram.com -->
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+ <title>
+  Untitled
+ </title>
+ <link href="HTMLFiles/al.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<p class="Section">
+ Ashcroft&rsquo;s Model
+</p>
+
+
+
+<p class='Input' style='background-color: #DEF0FF;'>
+ <img src="HTMLFiles/al_1.gif" alt="al_1.gif" width="926" height="128" style="vertical-align:middle" />
+</p>
+
+<p class='Input' style='background-color: #FFD9D9;'>
+ <img src="HTMLFiles/al_2.gif" alt="al_2.gif" width="1098" height="377" style="vertical-align:middle" />
+</p>
+
+<p class="Input">
+ <math xmlns='http://www.w3.org/1998/Math/MathML'>
+ <mrow>
+  <mi>p1</mi>
+  <mo>=</mo>
+  <mrow>
+   <mi>ListPlot</mi>
+   <mo>[</mo>
+   <mrow>
+    <mrow>
+     <mi>Table</mi>
+     <mo>[</mo>
+     <mrow>
+      <mrow>
+       <mo>{</mo>
+       <mrow>
+        <mrow>
+         <mi>datak</mi>
+         <mo>[</mo>
+         <mrow>
+          <mo>[</mo>
+          <mrow>
+           <mn>1</mn>
+           <mo>,</mo>
+           <mi>n</mi>
+          </mrow>
+          <mo>]</mo>
+         </mrow>
+         <mo>]</mo>
+        </mrow>
+        <mo>,</mo>
+        <mrow>
+         <mi>data</mi>
+         <mo>[</mo>
+         <mrow>
+          <mo>[</mo>
+          <mrow>
+           <mn>1</mn>
+           <mo>,</mo>
+           <mi>n</mi>
+           <mo>,</mo>
+           <mi>i</mi>
+          </mrow>
+          <mo>]</mo>
+         </mrow>
+         <mo>]</mo>
+        </mrow>
+       </mrow>
+       <mo>}</mo>
+      </mrow>
+      <mo>,</mo>
+      <mrow>
+       <mo>{</mo>
+       <mrow>
+        <mi>n</mi>
+        <mo>,</mo>
+        <mn>306</mn>
+       </mrow>
+       <mo>}</mo>
+      </mrow>
+      <mo>,</mo>
+      <mrow>
+       <mo>{</mo>
+       <mrow>
+        <mi>i</mi>
+        <mo>,</mo>
+        <mn>4</mn>
+       </mrow>
+       <mo>}</mo>
+      </mrow>
+     </mrow>
+     <mo>]</mo>
+    </mrow>
+    <mo>,</mo>
+    <mrow>
+     <mi>PlotRange</mi>
+     <mo>&rightarrow;</mo>
+     <mn>1.5</mn>
+    </mrow>
+    <mo>,</mo>
+    <mrow>
+     <mi>Frame</mi>
+     <mo>&rightarrow;</mo>
+     <mi>True</mi>
+    </mrow>
+    <mo>,</mo>
+    <mrow>
+     <mi>Axes</mi>
+     <mo>&rightarrow;</mo>
+     <mrow>
+      <mo>{</mo>
+      <mrow>
+       <mi>True</mi>
+       <mo>,</mo>
+       <mi>False</mi>
+      </mrow>
+      <mo>}</mo>
+     </mrow>
+    </mrow>
+    <mo>,</mo>
+    <mrow>
+     <mi>FrameTicks</mi>
+     <mo>&rightarrow;</mo>
+     <mrow>
+      <mo>{</mo>
+      <mrow>
+       <mrow>
+        <mo>{</mo>
+        <mrow>
+         <mi>tick0</mi>
+         <mo>,</mo>
+         <mi>tick1</mi>
+         <mo>,</mo>
+         <mi>tick2</mi>
+         <mo>,</mo>
+         <mi>tick3</mi>
+         <mo>,</mo>
+         <mi>tick4</mi>
+         <mo>,</mo>
+         <mi>tick5</mi>
+        </mrow>
+        <mo>}</mo>
+       </mrow>
+       <mo>,</mo>
+       <mi>Automatic</mi>
+      </mrow>
+      <mo>}</mo>
+     </mrow>
+    </mrow>
+    <mo>,</mo>
+    <mrow>
+     <mi>PlotStyle</mi>
+     <mo>&rightarrow;</mo>
+     <mrow>
+      <mo>{</mo>
+      <mi>Blue</mi>
+      <mo>}</mo>
+     </mrow>
+    </mrow>
+    <mo>,</mo>
+    <mrow>
+     <mi>ImageSize</mi>
+     <mo>&rightarrow;</mo>
+     <mi>Full</mi>
+    </mrow>
+   </mrow>
+   <mo>]</mo>
+  </mrow>
+ </mrow>
+</math>
+</p>
+
+<p class="Output">
+ <img src="HTMLFiles/al_3.gif" alt="al_3.gif" width="1917" height="1206" style="vertical-align:middle" />
+</p>
+
+<p class="Section">
+ Free Electrons
+</p>
+
+
+
+<p class='Input' style='background-color: #DEF0FF;'>
+ <img src="HTMLFiles/al_4.gif" alt="al_4.gif" width="1073" height="124" style="vertical-align:middle" />
+</p>
+
+<p class='Input' style='background-color: #FFD9D9;'>
+ <img src="HTMLFiles/al_5.gif" alt="al_5.gif" width="1156" height="377" style="vertical-align:middle" />
+</p>
+
+<p class="Input">
+ <math xmlns='http://www.w3.org/1998/Math/MathML'>
+ <mrow>
+  <mi>p2</mi>
+  <mo>=</mo>
+  <mrow>
+   <mi>ListPlot</mi>
+   <mo>[</mo>
+   <mrow>
+    <mrow>
+     <mi>Table</mi>
+     <mo>[</mo>
+     <mrow>
+      <mrow>
+       <mo>{</mo>
+       <mrow>
+        <mrow>
+         <mi>datafk</mi>
+         <mo>[</mo>
+         <mrow>
+          <mo>[</mo>
+          <mrow>
+           <mn>1</mn>
+           <mo>,</mo>
+           <mi>m</mi>
+          </mrow>
+          <mo>]</mo>
+         </mrow>
+         <mo>]</mo>
+        </mrow>
+        <mo>,</mo>
+        <mrow>
+         <mi>dataf</mi>
+         <mo>[</mo>
+         <mrow>
+          <mo>[</mo>
+          <mrow>
+           <mn>1</mn>
+           <mo>,</mo>
+           <mi>m</mi>
+           <mo>,</mo>
+           <mi>j</mi>
+          </mrow>
+          <mo>]</mo>
+         </mrow>
+         <mo>]</mo>
+        </mrow>
+       </mrow>
+       <mo>}</mo>
+      </mrow>
+      <mo>,</mo>
+      <mrow>
+       <mo>{</mo>
+       <mrow>
+        <mi>m</mi>
+        <mo>,</mo>
+        <mn>306</mn>
+       </mrow>
+       <mo>}</mo>
+      </mrow>
+      <mo>,</mo>
+      <mrow>
+       <mo>{</mo>
+       <mrow>
+        <mi>j</mi>
+        <mo>,</mo>
+        <mn>4</mn>
+       </mrow>
+       <mo>}</mo>
+      </mrow>
+     </mrow>
+     <mo>]</mo>
+    </mrow>
+    <mo>,</mo>
+    <mrow>
+     <mi>PlotRange</mi>
+     <mo>&rightarrow;</mo>
+     <mn>1.5</mn>
+    </mrow>
+    <mo>,</mo>
+    <mrow>
+     <mi>Frame</mi>
+     <mo>&rightarrow;</mo>
+     <mi>True</mi>
+    </mrow>
+    <mo>,</mo>
+    <mrow>
+     <mi>FrameTicks</mi>
+     <mo>&rightarrow;</mo>
+     <mrow>
+      <mo>{</mo>
+      <mrow>
+       <mrow>
+        <mo>{</mo>
+        <mrow>
+         <mi>tick0</mi>
+         <mo>,</mo>
+         <mi>tick1</mi>
+         <mo>,</mo>
+         <mi>tick2</mi>
+         <mo>,</mo>
+         <mi>tick3</mi>
+         <mo>,</mo>
+         <mi>tick4</mi>
+         <mo>,</mo>
+         <mi>tick5</mi>
+        </mrow>
+        <mo>}</mo>
+       </mrow>
+       <mo>,</mo>
+       <mi>Automatic</mi>
+      </mrow>
+      <mo>}</mo>
+     </mrow>
+    </mrow>
+    <mo>,</mo>
+    <mrow>
+     <mi>Axes</mi>
+     <mo>&rightarrow;</mo>
+     <mrow>
+      <mo>{</mo>
+      <mrow>
+       <mi>True</mi>
+       <mo>,</mo>
+       <mi>False</mi>
+      </mrow>
+      <mo>}</mo>
+     </mrow>
+    </mrow>
+    <mo>,</mo>
+    <mrow>
+     <mi>PlotStyle</mi>
+     <mo>&rightarrow;</mo>
+     <mrow>
+      <mo>{</mo>
+      <mi>Red</mi>
+      <mo>}</mo>
+     </mrow>
+    </mrow>
+    <mo>,</mo>
+    <mrow>
+     <mi>ImageSize</mi>
+     <mo>&rightarrow;</mo>
+     <mi>Full</mi>
+    </mrow>
+   </mrow>
+   <mo>]</mo>
+  </mrow>
+ </mrow>
+</math>
+</p>
+
+<p class="Output">
+ <img src="HTMLFiles/al_6.gif" alt="al_6.gif" width="1917" height="1206" style="vertical-align:middle" />
+</p>
+
+<p class="Item1Numbered">
+ 
+</p>
+
+
+
+<p class="Text">
+ 
+</p>
+
+
+
+<p class="Section">
+ Final Plot
+</p>
+
+
+
+<p class="Text">
+ 
+</p>
+
+
+
+<p class="Input">
+ <math xmlns='http://www.w3.org/1998/Math/MathML'>
+ <mrow>
+  <mi>Show</mi>
+  <mo>[</mo>
+  <mrow>
+   <mi>p1</mi>
+   <mo>,</mo>
+   <mi>p2</mi>
+  </mrow>
+  <mo>]</mo>
+ </mrow>
+</math>
+</p>
+
+<p class="Output">
+ <img src="HTMLFiles/al_7.gif" alt="al_7.gif" width="1917" height="1206" style="vertical-align:middle" />
+</p>
+
+
+
+
+<div style="font-family:Helvetica; font-size:11px; width:100%; border:1px none #999999; border-top-style:solid; padding-top:2px; margin-top:20px;">
+ <a href="http://www.wolfram.com/language/" style="color:#000; text-decoration:none;">
+  <span style="color:#555555">Created with the Wolfram Language</span> 
+ </a>
+</div>
+</body>
+
+</html>
